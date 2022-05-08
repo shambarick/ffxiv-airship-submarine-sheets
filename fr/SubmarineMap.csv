@@ -1,7 +1,8 @@
 ﻿key,0,1
 #,Name,Image
 int32,str,Image
-0,"",0
-1,"Mer des noyades",63191
-2,"Mer de Cendre",63192
-3,"Mer de Jade",63193
+0,"",
+1,"Mer des noyades","ui/icon/063000/063191.tex"
+2,"Mer de Cendre","ui/icon/063000/063192.tex"
+3,"Mer de Jade","ui/icon/063000/063193.tex"
+4,"Mer du Chant des sirènes","ui/icon/063000/063194.tex"
